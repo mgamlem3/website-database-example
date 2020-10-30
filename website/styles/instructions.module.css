@@ -1,0 +1,17 @@
+/** @format */
+
+.page {
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	margin: 12px;
+}
+
+.example {
+	max-width: 40vw;
+	margin-left: 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 200px;
+}
